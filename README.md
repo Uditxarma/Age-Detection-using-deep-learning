@@ -1,2 +1,3 @@
 # Age-Detection-using-deep-learning
-Age Detection---> 
+Age Detection Model--->
+Gender Detection Model
